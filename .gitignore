@@ -3,9 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# large zipped files
+# large files
 *.zip
 images/
+tensorboard_runs/
 
 # C extensions
 *.so
