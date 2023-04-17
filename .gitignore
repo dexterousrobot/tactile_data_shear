@@ -5,8 +5,11 @@ __pycache__/
 
 # large files
 *.zip
-images/
 tensorboard_runs/
+images/
+*_temp*
+*_temp*/
+temp/
 
 # C extensions
 *.so

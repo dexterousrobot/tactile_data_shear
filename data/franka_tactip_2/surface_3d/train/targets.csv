@@ -1,4 +1,4 @@
-sensor_image,x,y,z,Rx,Ry,Rz,dx,dy,dz,dRx,dRy,dRz
+sensor_image,pose_x,pose_y,pose_z,pose_Rx,pose_Ry,pose_Rz,shear_x,shear_y,shear_z,shear_Rx,shear_Ry,shear_Rz
 image_1.png,0,0,0.500024809,-19.61692555,4.008753613,0,-1.997047074,1.58103863,0,0,0,-4.913135261
 image_2.png,0,0,0.500256744,-20.830611,0.297442599,0,-0.260796658,-2.302150648,0,0,0,-1.804928965
 image_3.png,0,0,0.502332158,-9.59148813,23.01096925,0,1.328061518,-0.715031501,0,0,0,3.663350607
