@@ -7,6 +7,7 @@ __pycache__/
 *.zip
 tensorboard_runs/
 images/
+sensor_images/
 *_temp*
 *_temp*/
 temp/
